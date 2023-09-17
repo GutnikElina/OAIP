@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (lab_3(OAIP).vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  zad_1_1.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_3\zad\zad_1_1\zad_1_1.cpp(18,12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  lab_3(OAIP).vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_3\zad\Debug\zad_1_1.exe

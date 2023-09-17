@@ -1,0 +1,8 @@
+﻿  file_1.cpp
+  file_2.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_class\lab_10_class\file_2.cpp(218,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_class\lab_10_class\file_2.cpp(231,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_class\lab_10_class\file_2.cpp(187): warning C4715: read_litter: значение возвращается не при всех путях выполнения
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_class\lab_10_class\file_2.cpp(162): warning C4715: read: значение возвращается не при всех путях выполнения
+  lab_10_class.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_class\Debug\lab_10_class.exe

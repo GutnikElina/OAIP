@@ -1,0 +1,6 @@
+﻿  zad_1.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_7\zad_1\zad_1.cpp(121,14): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_7\zad_1\zad_1.cpp(152,16): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_7\zad_1\zad_1.cpp(144,9): warning C4101: j: неиспользованная локальная переменная
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_7\zad_1\zad_1.cpp(186,12): warning C4018: <: несоответствие типов со знаком и без знака
+  zad_1.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_7\Debug\zad_1.exe

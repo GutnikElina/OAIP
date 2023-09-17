@@ -1,0 +1,4 @@
+﻿  ocheredi.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_ocheredi\lab_ocheredi\ocheredi.cpp(177,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_ocheredi\lab_ocheredi\ocheredi.cpp(124): warning C4715: lastSymbol: значение возвращается не при всех путях выполнения
+  lab_ocheredi.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_ocheredi\x64\Debug\lab_ocheredi.exe

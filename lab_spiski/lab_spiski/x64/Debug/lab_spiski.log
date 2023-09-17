@@ -1,0 +1,3 @@
+﻿  spiski.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_spiski\lab_spiski\spiski.cpp(362,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_spiski.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_spiski\x64\Debug\lab_spiski.exe

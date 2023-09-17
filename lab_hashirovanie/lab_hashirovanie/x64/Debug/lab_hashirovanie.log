@@ -1,0 +1,3 @@
+﻿  hash.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_hashirovanie\lab_hashirovanie\hash.cpp(29,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_hashirovanie.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_hashirovanie\x64\Debug\lab_hashirovanie.exe

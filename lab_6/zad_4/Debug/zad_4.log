@@ -1,0 +1,3 @@
+﻿  zad_4.cpp
+D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_6\zad_4\zad_4.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  zad_4.vcxproj -> D:\Documents\Лабораторные работы - БГУИР\OAIP\lab_6\Debug\zad_4.exe
